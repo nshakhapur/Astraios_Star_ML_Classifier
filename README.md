@@ -8,23 +8,15 @@ This Jupyter Notebook (Project_Stellar.ipynb) was initially created on Google Co
 ## Libraries Used
 
 ### 1. NumPy
-    bash
-
     pip install numpy
 
 ### 2. Matplotlib
-    bash
-
     pip install matplotlib
     
 ### 3. Pandas
-    bash
-
     pip install pandas
     
 ### 4. Scikit-learn
-    bash
-
     pip install scikit-learn
 
 ## Getting Started
@@ -32,10 +24,8 @@ This Jupyter Notebook (Project_Stellar.ipynb) was initially created on Google Co
 
 ### Clone the repository to your local machine:
 
-    bash
-
-git clone <repository-url>
-cd <repository-name>
+    git clone <repository-url>
+    cd <repository-name>
 
 
 ### Run the cells in the notebook to understand the project and classify stars as giants or dwarves.
