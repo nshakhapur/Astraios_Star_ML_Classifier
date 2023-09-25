@@ -24,8 +24,8 @@ This Jupyter Notebook (Project_Stellar.ipynb) was initially created on Google Co
 
 ### Clone the repository to your local machine:
 
-    git clone <repository-url>
-    cd <repository-name>
+    git clone [<repository-url>](https://github.com/nshakhapur/Stellar_ML_Classifier.git)
+    cd [<repository-name>](Stellar_ML_Classifier)
 
 
 ### Run the cells in the notebook to understand the project and classify stars as giants or dwarves.
