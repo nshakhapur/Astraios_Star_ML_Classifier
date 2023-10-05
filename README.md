@@ -1,4 +1,4 @@
-# Project Stellar Classification using Support Vector Machine
+# Star Classification using Support Vector Machine
 
 ## This project involves classifying stars as giants or dwarves using Support Vector Machine (SVM) and features related to spectral types.
 Overview
