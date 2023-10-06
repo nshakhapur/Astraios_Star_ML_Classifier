@@ -3,7 +3,7 @@
 ## This project involves classifying stars as giants or dwarves using Support Vector Machine (SVM) and features related to spectral types.
 Overview
 
-This Jupyter Notebook (Project_Stellar.ipynb) was initially created on Google Colab. The original file can be accessed here: [Google Colab](https://colab.research.google.com/drive/15J02qDs34XujzJ7KI39eEzeLDGnr39cq?usp=sharing)
+
 
 ## Libraries Used
 
